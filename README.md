@@ -1,6 +1,6 @@
-#  OrangeFox recovery tree for relame devices with qualcomm processor codenamed pineapple
+#  OrangeFox recovery tree for Oneplus 13R/Ace 5 with qualcomm processor codenamed pineapple
 
-Platforms, included under realme's codename "pineapple", are:
+Platforms, included under oneplus's codename "pineapple", are:
 - Qualcomm Snapdragon 8 Gen 3 (SM8650)
 
 Devices, that can run and will run this recovery without any sudden and unforseen issues:
